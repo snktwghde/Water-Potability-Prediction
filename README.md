@@ -1,0 +1,1 @@
+Built an end-to-end machine learning system to predict whether water is safe for consumption based on physicochemical properties. The project focused on handling real-world challenges such as missing values, class imbalance, noisy features, and model deployment.
